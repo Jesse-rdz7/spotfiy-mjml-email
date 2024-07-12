@@ -1,0 +1,156 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-section background-color="white" padding="0px">
+      <mj-column  width="85%" padding="1px">
+        <mj-image  padding="20px 0px 0px 20px" align="left" width="90px" src="https://delo.dev/spotify/img/hero-tiny.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text padding="0px" align="center">
+          <h1 style="font-family: 'Montserrat', sans-serif; font-size:22px font-weight: 600px; color:rgb(85,85,85); line-height:35px;">Enjoy Spotify Premium</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text padding="0px" align="center">
+          <p style="font-family:'Montserrat', sans-serif; font-size:14px; font-weight:300px; color:rgb(97,100,103); line-height:14px;">January 6, 2024</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text padding="0px" align="center">
+          <p style="font-family: 'Montserrat', sans-serif; font-size:14px; font-weight: 300px; color:rgb(97,100,103);line-height:14px;">
+            Order ID:93121354568432</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-table font-family="'Opens Sans',sans-serif, Helvetica, Arial" padding="0px" align="center" width="80%">
+          <tr align="left" style="padding:15px 0px; border-top: 1.5px solid #e3e3e3;border-right: 1.5px solid #e3e3e3;border-left: 1.5px solid #e3e3e3; background-color:#F7F7F7; ">
+            <th style="padding: 10px 1px 1px 15px; width:50%; color:#616647" font-family="'Montserrat', sans-serif">Spotify Premium</th>
+            <td align="right" style="padding: 5px 10px 1px 1px; width:50%; color:#616647">$9.99</td>
+          </tr>
+          <tr align="left" style="padding:15px 0px; border-right: 1.5px solid #e3e3e3; border-bottom: 1.5px solid #e3e3e3;border-left: 1.5px solid #e3e3e3; background-color:#F7F7F7;">
+            <td style="padding: 10px 1px 5px 15px; width:50%; color:#616647" font-family="'Montserrat', sans-serif">1 Month</th>
+            <td align="right" style="padding: 0px 5px 0px 0px; width:50%; color:#616647"></td>
+          </tr>
+          <tr align="left" style="padding:15px 0px;border-right: 1.5px solid #e3e3e3; border-bottom: 1.5px solid #e3e3e3;border-left: 1.5px solid #e3e3e3;background-color:#F7F7F7;  ">
+            <th style="padding: 15px 15px 15px 15px; width:50%; color:#616647" font-family="'Montserrat', sans-serif">Sales Tax 6%</th>
+            <td align="right" style="padding: 15px 15px 15px 15px; width:50%; color:#616647">$0.60</td>
+          </tr>
+          <tr align="left" style="padding:15px 0px;border-right: 1.5px solid #e3e3e3; border-bottom: 1.5px solid #e3e3e3;border-left: 1.5px solid #e3e3e3;background-color:#F7F7F7;  ">
+            <th style="padding: 15px 15px 15px 15px; width:50%; color:#616647" font-family="'Montserrat', sans-serif">Total</th>
+            <td align="right" style="padding: 15px 15px 15px 15px; width:50%; color:#616647">$10.59</td>
+          </tr>
+
+
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text color="rgb(97,100,103)" padding="1px" align="center" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="600" line-height="14px" padding-top="15px">
+          Payment Method
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text color="rgb(97,100,103)" padding="15px" align="center" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="400" line-height="14px" padding-top="15px">
+          Card (#### #### #### 1234)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text color="rgb(97,100,103)" padding="15px 1px 1px" align="center" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="600" line-height="14px" padding-top="15px">
+          User Name
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-text color="rgb(97,100,103)" padding="15px" align="center" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="400" line-height="14px" padding-top="15px">
+          John Doe
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section text-align="center" padding="5px 50px">
+      <mj-column padding="1px">
+        <mj-text align="center">
+          <p align="center" style="color: rgb(97,100,103); font-family:'Montserrat', sans-serif; font-size:15px; font-weight:300px; line-height:1.4;padding:15px; width:80%">You have authorized Spotify to automatically charge you the above price each month until you cancel. If the price changes, we'll notify you beforehand. You can check your renewal date or cancel at any time on your account page following the instructions <a href="#" style="text-decoration: underline; color: dodgerblue;">here</a>. No partial refunds. Terms and Conditions apply. Important information for residents in the State of Alabama <a href="#" style="text-decoration: underline; color: dodgerblue;"> here</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column background-color="#f7f7f7" padding="1px" width="80%">
+        <mj-image align="left" padding="15px" width="70px" src="https://delo.dev/spotify/img/hero-small.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    
+    <mj-section  padding="0px">
+      <mj-column border-top="1.5px solid #e3e3e3" border-bottom="1.5px solid #e3e3e3"  vertical-align="middle" padding="0px" background-color="#f7f7f7" width="28%">
+        <mj-text  color="rgb(97,100,103)" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="500" line-height="14px" padding="15px">
+            Get<br> Spotfiy for:
+        </mj-text>
+        
+      </mj-column>
+      <mj-column border-top="1.5px solid #e3e3e3" border-bottom="1.5px solid #e3e3e3" padding="21px 0px 21px 0px"  vertical-align="middle" background-color="#f7f7f7" width="14%">
+        <mj-text color="rgb(97,100,103)" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="700" line-height="14px" padding="1px">
+            iPhone
+        </mj-text>
+      </mj-column>
+      <mj-column border-top="1.5px solid #e3e3e3" border-bottom="1.5px solid #e3e3e3" padding="21px 0px 21px 0px" vertical-align="middle" background-color="#f7f7f7" width="9%">
+        <mj-text color="rgb(97,100,103)" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="700" line-height="14px" padding="1px">
+            iPad
+        </mj-text>
+      </mj-column>
+      <mj-column border-top="1.5px solid #e3e3e3" border-bottom="1.5px solid #e3e3e3" padding="21px 0px 21px 0px" vertical-align="middle" background-color="#f7f7f7" width="16%">
+        <mj-text color="rgb(97,100,103)" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="700" line-height="14px" padding="1px">
+            Android
+        </mj-text>
+      </mj-column>
+      <mj-column border-top="1.5px solid #e3e3e3" border-bottom="1.5px solid #e3e3e3" padding="21px 0px 21px 0px" vertical-align="middle" background-color="#f7f7f7" width="13%">
+        <mj-text   color="rgb(97,100,103)" font-family="'Montserrat', sans-serif" font-size="15px" font-weight="700" line-height="14px" padding="1px">
+            Other
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column background-color="#f7f7f7" padding="1px" width="80%">
+        <mj-text font-family="'Montserrat', sans-serif" color="rgb(97,100,103)" font-size="15px" font-weight="400" line-height="15px" padding="15px">
+            This message was sent to johndoe@gmail.com. If you have questions or complaints, please <span style="color: rgb(97,100,103); font-family:'Montserrat', sans-serif; font-size:15px; font-weight:600; line-height: 14px;">contact us.</span>
+            <br>
+            <br>
+            Spotify USA Inc., c/o RL&F Service Corp., One Rodney Square, 10th floor, Tenth and King streets, Wilmington, New Castle Country, Delaware 19801, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+
+
+
+
+
+
+    
+
+  </mj-body>
+</mjml>
